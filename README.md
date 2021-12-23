@@ -3,7 +3,7 @@
 My name is LouieMartin, and I am a Software Engineer, and I am currently studying
 Data Science and Algorithmic Patterns!
 
-[![LouieMartin's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouieMartin)](https://github.com/anuraghazra/github-readme-stats)
+[![LouieMartin's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouieMartin&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **LouieMartin/LouieMartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
