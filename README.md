@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am LouieMartin and I am a Software Engineer I am currently learning
+Data Science and Algorithms!
+
+[](https://github-readme-stats.vercel.app/api?username=LouieMartin&theme=dracula)
+
 <!--
 **LouieMartin/LouieMartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
