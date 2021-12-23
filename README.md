@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 My name is LouieMartin, and I am a Software Engineer, and I am currently studying
 Data Science and Algorithmic Patterns!
