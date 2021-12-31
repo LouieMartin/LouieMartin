@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+
+My name is LouieMartin, and I am a Software Engineer, and I am currently studying
+Data Science and Algorithmic Patterns!
+
+[![LouieMartin's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouieMartin&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+You can contact me at my Discord account (LouieMartin#6607) or my [Discord server](https://discord.gg/nF8fcXExzT)
 
 I am LouieMartin and I am a Software Engineer I am currently learning
 Data Science and Algorithms!
