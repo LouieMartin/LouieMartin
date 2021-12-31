@@ -1,7 +1,6 @@
 # Hi there 👋
 
-My name is LouieMartin, and I am a Software Engineer, and I am currently studying
-Data Science!
+My name is LouieMartin, and I am a Software Engineer!
 
 [![LouieMartin's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouieMartin&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
