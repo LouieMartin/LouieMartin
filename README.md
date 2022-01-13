@@ -5,6 +5,10 @@
 My name is LouieMartin, and I am self taught and I am a Full Stack Software Engineer 😀!
 You can contact me at my discord `LouieMartin#6607` or my email at `louie.decierdo@gmail.com`, have a nice day.
 
+## Tools and Languages
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
 ## GitHub Status
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -21,5 +25,5 @@ You can contact me at my discord `LouieMartin#6607` or my email at `louie.decier
 
 ## Credits
 
-Credits to [anuraghazra](https://github.com/anuraghazra/) for making [GitHub README Status](https://github.com/anuraghazra/github-readme-stats), GitHub Readme Status is basically
+Credits to [anuraghazra](https://github.com/anuraghazra/) for making [GitHub README Status](https://github.com/anuraghazra/github-readme-stats). GitHub Readme Status is basically
 a customizable card that displays your repositories or your status!
