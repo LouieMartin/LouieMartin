@@ -18,3 +18,6 @@ You can contact me at my discord `LouieMartin#6607` or my email at `louie.decier
   <img style="height: 8em;" src="https://github-readme-stats.vercel.app/api/pin/?username=LouieMartin&repo=vite-vue-template&theme=buefy" />
   <img style="height: 8em;" src="https://github-readme-stats.vercel.app/api/pin/?username=LouieMartin&repo=type-graphql-template&theme=buefy" />
 </a>
+
+Credits to [anuraghazra](https://github.com/anuraghazra/) for making [GitHub README Status](https://github.com/anuraghazra/github-readme-stats), GitHub Readme Status is basically
+a customizable card that displays your repositories or your status!
