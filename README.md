@@ -14,5 +14,7 @@ You can contact me at my discord `LouieMartin#6607`, have a nice day.
 
 ## Top Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouieMartin&repo=vite-vue-template)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouieMartin&repo=type-graphql-template)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LouieMartin&repo=vite-vue-template" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LouieMartin&repo=type-graphql-template" />
+</a>
