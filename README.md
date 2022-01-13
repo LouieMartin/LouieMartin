@@ -1,9 +1,8 @@
 # Hi there 👋
 
-My name is LouieMartin, and I am a Software Engineer!
+My name is LouieMartin, and I am a Software Engineer 😀!
 
 [![LouieMartin's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouieMartin&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[](https://app.daily.dev/LouieMartin)
 
 You can contact me at my Discord account (LouieMartin#6607) or my [Discord server](https://discord.gg/nF8fcXExzT)
 
