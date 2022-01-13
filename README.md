@@ -1,4 +1,4 @@
-[](https://github.com/LouieMartin/LouieMartin/blob/main/assets/banner.png)
+[](https://raw.githubusercontent.com/LouieMartin/LouieMartin/main/assets/banner.png)
 
 ## About me
 
