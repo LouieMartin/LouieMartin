@@ -1,7 +1,6 @@
 # About me
 
-My name is LouieMartin, I am a Full Stack Software Engineer 😀!
-You can contact me at my discord `LouieMartin#6607` or my email at `louie.decierdo@gmail.com`.
+My name is LouieMartin, I am a Full Stack Programmer!
 
 # Tools and Languages
 
@@ -12,8 +11,6 @@ You can contact me at my discord `LouieMartin#6607` or my email at `louie.decier
 3. React.js <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 4. Vue.js <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-
-5. GraphQL <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 
 # GitHub Status
 
