@@ -1,6 +1,7 @@
 # Welcome!
 
-## GitHub README Status
+
+## GitHub Status
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouieMartin&show_icons=true&theme=buefy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
