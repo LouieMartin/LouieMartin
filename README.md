@@ -7,7 +7,7 @@
 
 ## GitHub Status
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?LouieMartin&theme=buefy)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?username=LouieMartin&theme=buefy)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouieMartin&show_icons=true&theme=buefy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
