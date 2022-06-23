@@ -11,4 +11,4 @@
 
 ## Wakatime Status
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LouieMartin)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LouieMartin&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
