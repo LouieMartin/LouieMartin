@@ -8,3 +8,15 @@
 ## Most Used Languages
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LouieMartin&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+## Pinned Repositories
+
+<a href="https://github.com/LouieMartin/snowpack-react-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LouieMartin&repo=snowpack-react-template" />
+</a>
+<a href="https://github.com/LouieMartin/vite-vue-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LouieMartin&repo=vite-vue-template" />
+</a>
+<a href="https://github.com/LouieMartin/nestjs-graphql-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LouieMartin&repo=nestjs-graphql-template" />
+</a>
