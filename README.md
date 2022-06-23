@@ -1,20 +1,7 @@
-# About me
+# Welcome!
 
-My name is LouieMartin, I am a Full Stack Programmer!
+## GitHub README Status
 
-# Tools and Languages
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouieMartin&show_icons=true&theme=buefy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-1. JavaScript <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-2. TypeScript <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-
-3. React.js <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-4. Vue.js <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-
-# GitHub Status
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="height: 12em;" src="https://github-readme-stats.vercel.app/api?username=LouieMartin&show_icons=true&theme=buefy" />
-  <img style="height: 12em;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouieMartin&layout=compact&theme=buefy" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LouieMartin&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
