@@ -8,7 +8,3 @@
 ## Most Used Languages
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LouieMartin&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-
-## Wakatime Status
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LouieMartin&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
