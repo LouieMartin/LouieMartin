@@ -11,7 +11,6 @@
 
 ## Pinned Repositories
 
-<a>
 <a href="https://github.com/LouieMartin/snowpack-react-template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LouieMartin&repo=snowpack-react-template" />
 </a>
@@ -20,5 +19,4 @@
 </a>
 <a href="https://github.com/LouieMartin/vite-vue-template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LouieMartin&repo=vite-vue-template" />
-</a>
 </a>
