@@ -14,9 +14,9 @@
 <a href="https://github.com/LouieMartin/snowpack-react-template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LouieMartin&repo=snowpack-react-template" />
 </a>
-<a href="https://github.com/LouieMartin/vite-vue-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LouieMartin&repo=vite-vue-template" />
-</a>
 <a href="https://github.com/LouieMartin/nestjs-graphql-template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LouieMartin&repo=nestjs-graphql-template" />
+</a>
+<a href="https://github.com/LouieMartin/vite-vue-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LouieMartin&repo=vite-vue-template" />
 </a>
